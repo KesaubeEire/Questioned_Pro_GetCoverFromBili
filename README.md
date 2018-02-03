@@ -1,6 +1,6 @@
 #GetCoverFromBili请教原作者~
 您好UP,这里是我的原码,为了以防您不方便下载和运行在机器上,我在这里贴上主要代码供您查看
-
+压缩包为源文件,平台是Android Studio
 ##MainActivity.java
 ```
 package com.kesoft.kesa.get_bilibili_displayimage;
