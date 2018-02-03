@@ -1,10 +1,10 @@
 README
 ===========================
-#GetCoverFromBili请教原作者~
+# GetCoverFromBili请教原作者~
 您好UP,这里是我的原码,为了以防您不方便下载和运行在机器上,我在这里贴上主要代码供您查看
 压缩包为源文件,平台是Android Studio
-##MainActivity.java
-```
+## MainActivity.java
+```Java
 package com.kesoft.kesa.get_bilibili_displayimage;
 
 import android.annotation.SuppressLint;
@@ -164,8 +164,8 @@ public class MainActivity extends AppCompatActivity
 
 ```
 
-##activity_main.xml
-```
+## activity_main.xml
+```Xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -211,8 +211,8 @@ public class MainActivity extends AppCompatActivity
 
 ```
 
-##AndroidManinfest.xml
-```
+## AndroidManinfest.xml
+```Xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.kesoft.kesa.get_bilibili_displayimage">
